@@ -44,11 +44,13 @@ export default {
 .fireworks {
   position: absolute;
   width: 100%;
-  height: 100%;
-  background: url('../public/img/love.jpg');
-  background-size: cover;
-  background-position: center;
-  animation: fadeOut 3s ease-in-out;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('../public/img/two_love.png') no-repeat center center;
+  background-size: contain; 
+  animation: fadeOut 5s ease-in-out;
 }
 
 @keyframes fadeOut {
