@@ -7,6 +7,9 @@
           <v-card-title class="text-center">Feliz Día del Amor 💖</v-card-title>
           <v-card-text class="text-center">Eres la persona más especial en mi vida. ¡Te amo! 💕</v-card-text>
           <v-btn color="pink" dark block @click="triggerFireworks"><i style="font-size: 20px;">Click aquí 😍</i></v-btn>
+          <br><br>
+          <v-card-text class="text-center"><em>Valgo la pena? No lo se, pero tu vales muchísimo y me esforzare por hacerte feliz, 
+            te daré mi mejor versión y todo lo que te mereces</em> 💕</v-card-text>
         </v-card>
       </v-container>
     </div>
