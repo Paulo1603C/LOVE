@@ -45,7 +45,7 @@ export default {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url('../public/img/descarga.jpg');
+  background: url('../public/img/love.jpg');
   background-size: cover;
   background-position: center;
   animation: fadeOut 3s ease-in-out;
